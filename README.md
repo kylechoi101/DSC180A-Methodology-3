@@ -1,3 +1,2 @@
 # DSC180A-Methodology-3
-Kyle Choi
-k3choi@ucsd.edu
+Kyle Choi and Jade Sunghyeok Choi
